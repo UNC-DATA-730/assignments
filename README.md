@@ -7,3 +7,4 @@ This repo contains GitHub classroom invite links to assignments for DATA 730.
 | **Assignment** | **GitHub Classroom Invite** | **Due date** |
 |:--- |:--- |:--- |
 | Intro to Juptyer Lab and onboarding | [Link to invite](https://classroom.github.com/a/xDBr89fK) | 2024-01-17 |
+| Data viz and wrangling | [Link to invite](https://classroom.github.com/a/JNbcjhN9) | 2024-01-24 |

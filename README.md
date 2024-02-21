@@ -12,3 +12,4 @@ This repo contains GitHub classroom invite links to assignments for DATA 730.
 | Unit 4: Multiple regression | [Link to invite](https://classroom.github.com/a/Lr7NTymT) | 2024-02-09 |
 | Unit 5: Logistic regression | [Link to invite](https://classroom.github.com/a/FmQxEDs2) | 2024-02-16 |
 | Unit 6: Scikit-Learn API | [Link to invite](https://classroom.github.com/a/pHAAOLn6) | 2024-02-23 |
+| Unit 7: Virtual sampling | [Link to invite](https://classroom.github.com/a/DYYznAUq) | 2024-03-01 |

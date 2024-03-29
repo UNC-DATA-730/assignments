@@ -16,3 +16,4 @@ This repo contains GitHub classroom invite links to assignments for DATA 730.
 | Unit 8: Bootstrap sampling and confidence intervals | [Link to invite](https://classroom.github.com/a/-VloTFZ-) | 2024-03-08 |
 | Unit 9: Hypothesis testing | [Link to invite](https://classroom.github.com/a/NVbZkiE9) | 2024-03-15 |
 | Unit 10: Inference for regression | [Link to invite](https://classroom.github.com/a/1jVL4rVh) | 2024-03-22 | 
+| Unit 11: Decision trees | [Link to invite](https://classroom.github.com/a/8XZKZeTg) | 2024-04-05 |

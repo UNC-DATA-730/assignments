@@ -18,3 +18,4 @@ This repo contains GitHub classroom invite links to assignments for DATA 730.
 | Unit 10: Inference for regression | [Link to invite](https://classroom.github.com/a/1jVL4rVh) | 2024-03-22 | 
 | Unit 11: Decision trees | [Link to invite](https://classroom.github.com/a/8XZKZeTg) | 2024-04-05 |
 | Unit 12: Non-linear models | [Link to invite](https://classroom.github.com/a/TJqw-LIG) | 2023-04-12 |
+| Unit 13: Evaluating model performance| [Link to invite](https://classroom.github.com/a/eFRppY0L) | 2023-04-17 |

@@ -2,6 +2,14 @@
 
 This repo contains GitHub classroom invite links to assignments for DATA 730.
 
+## Section assignment schedules
+
+### Summer 2024
+
+[Section 1](https://github.com/UNC-DATA-730/assignments/blob/main/schedules/2024-summer-section-1.md)
+[Section 2](https://github.com/UNC-DATA-730/assignments/blob/main/schedules/2024-summer-section-2.md)
+
+<!--
 ## List of assignments
 
 | **Assignment** | **GitHub Classroom Invite** | **Due date** |
@@ -19,3 +27,4 @@ This repo contains GitHub classroom invite links to assignments for DATA 730.
 | Unit 11: Decision trees | [Link to invite](https://classroom.github.com/a/8XZKZeTg) | 2024-04-05 |
 | Unit 12: Non-linear models | [Link to invite](https://classroom.github.com/a/TJqw-LIG) | 2023-04-12 |
 | Unit 13: Evaluating model performance| [Link to invite](https://classroom.github.com/a/eFRppY0L) | 2023-04-17 |
+-->

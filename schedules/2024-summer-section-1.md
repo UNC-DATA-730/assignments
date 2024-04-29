@@ -1,5 +1,8 @@
 # Section 1 schedule
 
+> [!WARNING]  
+> This is the schedule for *Section 1*!
+
 ## List of assignments
 
 | **Assignment** | **GitHub Classroom Invite** | **Due date** |

@@ -1,7 +1,7 @@
 # Section 1 schedule
 
 > [!WARNING]  
-> This is the schedule for *Section 1*!
+> This is the schedule for **Section 1**!
 
 ## List of assignments
 

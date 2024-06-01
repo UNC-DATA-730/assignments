@@ -11,4 +11,5 @@
 | Unit 2: Data viz and wrangling | [Link to invite](https://classroom.github.com/a/-t5d_grM) | 2024-05-15 |
 | Unit 3: Simple linear models | [Link to invite](https://classroom.github.com/a/k4UFP_wu) | 2024-05-22 |
 | Unit 4: Multiple regression | [Link to invite](https://classroom.github.com/a/Rrhi6_Sg)| 2024-06-05 |
+| Unit 5: Logistic regression | [Link to invite](https://classroom.github.com/a/6mM9yhKn)| 2024-06-12 |
 

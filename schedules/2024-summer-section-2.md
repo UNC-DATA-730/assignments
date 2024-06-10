@@ -12,4 +12,5 @@
 | Unit 3: Simple linear models | [Link to invite](https://classroom.github.com/a/k4UFP_wu) | 2024-05-22 |
 | Unit 4: Multiple regression | [Link to invite](https://classroom.github.com/a/Rrhi6_Sg)| 2024-06-05 |
 | Unit 5: Logistic regression | [Link to invite](https://classroom.github.com/a/6mM9yhKn)| 2024-06-12 |
+| Unit 6: Scikit-Learn API | [Link to invite](https://classroom.github.com/a/-CvdF4bCL) | 2024-06-19 |
 

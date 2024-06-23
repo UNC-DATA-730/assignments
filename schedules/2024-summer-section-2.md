@@ -14,4 +14,5 @@
 | Unit 5: Logistic regression | [Link to invite](https://classroom.github.com/a/6mM9yhKn)| 2024-06-12 |
 | Unit 6: Scikit-Learn API | [Link to invite](https://classroom.github.com/a/-CvdF4bC) | 2024-06-19 |
 | Unit 7: Virtual sampling | [Link to invite](https://classroom.github.com/a/8NpfRWKf) | 2024-06-26 |
+| Unit 8: Bootstrap sampling and confidence intervals  | [Link to invite](https://classroom.github.com/a/ivU5pGof) | 2024-07-03 |
 

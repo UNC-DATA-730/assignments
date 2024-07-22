@@ -18,4 +18,5 @@
 | Unit 9: Hypothesis testing | [Link to invite](https://classroom.github.com/a/w_EYfEWs) | 2024-07-10 |
 | Unit 10: Inference for regression | [Link to invite](https://classroom.github.com/a/USTSGfib) | 2024-07-17 | 
 | Unit 11: Random forest models | [Link to invite](https://classroom.github.com/a/XAmq1kLZ) | 2024-07-24 |
+| Unit 12: Non-linear models | [Link to invite](https://classroom.github.com/a/zf3MO5wW) | 2023-07-31 |
 

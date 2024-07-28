@@ -19,4 +19,5 @@
 | Unit 10: Inference for regression | [Link to invite](https://classroom.github.com/a/USTSGfib) | 2024-07-17 | 
 | Unit 11: Random forest models | [Link to invite](https://classroom.github.com/a/XAmq1kLZ) | 2024-07-24 |
 | Unit 12: Non-linear models | [Link to invite](https://classroom.github.com/a/zf3MO5wW) | 2023-07-31 |
+| Unit 13: Evaluating model performance| [Link to invite](https://classroom.github.com/a/n5emsmVg) | 2023-08-07 |
 

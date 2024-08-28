@@ -7,7 +7,6 @@
 
 | **Assignment** | **GitHub Classroom Invite** | **Due date** |
 |:--- |:--- |:--- |
-
 | Unit 1: Intro to Juptyer Lab and onboarding | [Link to invite](https://classroom.github.com/a/DiZ22EwH) | 2024-09-04 |
 <!-- start of comment
 | Unit 2: Data viz and wrangling | [Link to invite](https://classroom.github.com/a/mKyNqCWE) | 2024-05-17 |

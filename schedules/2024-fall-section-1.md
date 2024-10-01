@@ -11,8 +11,8 @@
 | Unit 2: Data viz and wrangling | [Link to invite](https://classroom.github.com/a/iNNb_ijT) | 2024-09-13 |
 | Unit 3: Simple linear models | [Link to invite](https://classroom.github.com/a/HFWHmy73) | 2024-09-20 |
 | Unit 4: Multiple regression | [Link to invite](https://classroom.github.com/a/j6Lf7P4c) | 2024-09-27 |
+| Unit 5: Logistic regression | [Link to invite](https://classroom.github.com/a/C7Rw5j6j) | 2024-10-04 |
 <!-- start of comment
-| Unit 5: Logistic regression | [Link to invite](https://classroom.github.com/a/psdk0fEo) | 2024-06-07 |
 | Unit 6: Scikit-Learn API | [Link to invite](https://classroom.github.com/a/l9uYoyRL) | 2024-06-14 |
 | Unit 7: Virtual sampling | [Link to invite](https://classroom.github.com/a/AuL6F9ei) | 2024-06-21 |
 | Unit 8: Bootstrap sampling and confidence intervals | [Link to invite](https://classroom.github.com/a/vOXNrqpF) | 2024-06-28 |

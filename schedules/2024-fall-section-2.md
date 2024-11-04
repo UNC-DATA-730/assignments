@@ -16,8 +16,8 @@
 | Unit 7: Virtual sampling | [Link to invite](https://classroom.github.com/a/ZSsd6q2X) | 2024-10-23 |
 | Unit 8: Bootstrap sampling and confidence intervals | [Link to invite](https://classroom.github.com/a/iWy-3xBT) | 2024-10-30 |
 | Unit 9: Hypothesis testing | [Link to invite](https://classroom.github.com/a/UEg_nWHn) | 2024-11-06 |
+| Unit 10: Inference for regression | [Link to invite](https://classroom.github.com/a/FSROX_tg) | 2024-11-13 | 
 <!-- start of comment
-| Unit 10: Inference for regression | [Link to invite](https://classroom.github.com/a/CtoR5reg) | 2024-07-19 | 
 | Unit 11: Decision trees | [Link to invite](https://classroom.github.com/a/5fc0cHlJ) | 2024-07-26 |
 | Unit 12: Non-linear models | [Link to invite](https://classroom.github.com/a/NwFwYuKk) | 2024-08-02 |
 | Unit 13: Evaluating model performance| [Link to invite](https://classroom.github.com/a/XrLKD54T) | 2023-08-07 |

@@ -12,11 +12,11 @@
 | Unit 3: Simple linear models | [Link to invite](https://classroom.github.com/a/G1ZR1_Fw) | 2025-02-05 |
 | Unit 4: Multiple regression | [Link to invite](https://classroom.github.com/a/Q8EN-08y)| 2025-02-12|
 | Unit 5: Logistic regression | [Link to invite](https://classroom.github.com/a/wkiS_LbP)| 2025-02-19 |
+| Unit 6: Scikit-Learn API | [Link to invite](https://classroom.github.com/a/COgBDpDy) | 2025-02-26 |
 <!-- start of comment
-| Unit 6: Scikit-Learn API | [Link to invite](https://classroom.github.com/a/-CvdF4bC) | 2024-06-19 |
-| Unit 7: Virtual sampling | [Link to invite](https://classroom.github.com/a/8NpfRWKf) | 2024-06-26 |
-| Unit 8: Bootstrap sampling and confidence intervals  | [Link to invite](https://classroom.github.com/a/ivU5pGof) | 2024-07-03 |
-| Unit 9: Hypothesis testing | [Link to invite](https://classroom.github.com/a/w_EYfEWs) | 2024-07-10 |
+| Unit 7: Virtual sampling | [Link to invite](https://classroom.github.com/a/8NpfRWKf) | 2025-03-05 |
+| Unit 8: Bootstrap sampling and confidence intervals  | [Link to invite](https://classroom.github.com/a/ivU5pGof) | 2025-03-12 |
+| Unit 9: Hypothesis testing | [Link to invite](https://classroom.github.com/a/w_EYfEWs) | 2025-03-19 |
 | Unit 10: Inference for regression | [Link to invite](https://classroom.github.com/a/USTSGfib) | 2024-07-17 | 
 | Unit 11: Random forest models | [Link to invite](https://classroom.github.com/a/XAmq1kLZ) | 2024-07-24 |
 | Unit 12: Non-linear models | [Link to invite](https://classroom.github.com/a/zf3MO5wW) | 2023-07-31 |

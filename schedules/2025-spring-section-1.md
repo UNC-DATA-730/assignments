@@ -13,8 +13,8 @@
 | Unit 4: Multiple regression | [Link to invite](https://classroom.github.com/a/kqumwJuJ) | 2025-02-07 |
 | Unit 5: Logistic regression | [Link to invite](https://classroom.github.com/a/HTk1xFRc) | 2025-02-14 |
 | Unit 6: Scikit-Learn API | [Link to invite](https://classroom.github.com/a/bo5twLpa) | 2025-02-21 |
+| Unit 7: Virtual sampling | [Link to invite](https://classroom.github.com/a/cjTzC8CO) | 2025-02-28 |
 <!-- start of comment
-| Unit 7: Virtual sampling | [Link to invite](https://classroom.github.com/a/KZr_-usU) | 2024-10-25 |
 | Unit 8: Bootstrap sampling and confidence intervals | [Link to invite](https://classroom.github.com/a/c1ndoOQt) | 2024-11-01 |
 | Unit 9: Hypothesis testing | [Link to invite](https://classroom.github.com/a/dSl9b3SA) | 2024-11-08 |
 | Unit 10: Inference for regression | [Link to invite](https://classroom.github.com/a/6e411jU9) | 2024-11-15 | 

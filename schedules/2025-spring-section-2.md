@@ -14,11 +14,11 @@
 | Unit 5: Logistic regression | [Link to invite](https://classroom.github.com/a/wkiS_LbP)| 2025-02-19 |
 | Unit 6: Scikit-Learn API | [Link to invite](https://classroom.github.com/a/COgBDpDy) | 2025-02-26 |
 | Unit 7: Virtual sampling | [Link to invite](https://classroom.github.com/a/5ZZVuKeZ) | 2025-03-05 |
+| Unit 8: Bootstrap sampling and confidence intervals  | [Link to invite](https://classroom.github.com/a/HS-QZSv3) | 2025-03-12 |
 <!-- start of comment
-| Unit 8: Bootstrap sampling and confidence intervals  | [Link to invite](https://classroom.github.com/a/ivU5pGof) | 2025-03-12 |
 | Unit 9: Hypothesis testing | [Link to invite](https://classroom.github.com/a/w_EYfEWs) | 2025-03-19 |
 | Unit 10: Inference for regression | [Link to invite](https://classroom.github.com/a/USTSGfib) | 2025-03-26 | 
-| Unit 11: Random forest models | [Link to invite](https://classroom.github.com/a/XAmq1kLZ) | 2024-07-24 |
+| Unit 11: Random forest models | [Link to invite](https://classroom.github.com/a/XAmq1kLZ) | 2025-04-02 |
 | Unit 12: Non-linear models | [Link to invite](https://classroom.github.com/a/zf3MO5wW) | 2023-07-31 |
 | Unit 13: Evaluating model performance| [Link to invite](https://classroom.github.com/a/n5emsmVg) | 2023-08-07 |
 

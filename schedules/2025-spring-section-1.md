@@ -18,7 +18,7 @@
 | Unit 9: Hypothesis testing | [Link to invite](https://classroom.github.com/a/NjCrlCS8) | 2025-03-21 |
 | Unit 10: Inference for regression | [Link to invite](https://classroom.github.com/a/6VdyjaQx) | 2025-03-28 | 
 | Unit 11: Decision trees | [Link to invite](https://classroom.github.com/a/685_FLe2) | 2025-04-04 |
+| Unit 12: Non-linear models | [Link to invite](https://classroom.github.com/a/eAIlhR8b) | 2025-04-11 |
 <!-- start of comment
-| Unit 12: Non-linear models | [Link to invite](https://classroom.github.com/a/jmKCiwxk) | 2024-12-02 |
 | Unit 13: Evaluating model performance| [Link to invite](https://classroom.github.com/a/TKml_hG9) | 2024-12-04 |
 end of comment -->

@@ -4,6 +4,9 @@ This repo contains GitHub classroom invite links to assignments for DATA 730.
 
 ## Section assignment schedules
 
+### Summer 2025
+[Section 1](https://github.com/UNC-DATA-730/assignments/blob/main/schedules/2025-summer-section-1.md)
+
 ### Spring 2025
 [Section 1](https://github.com/UNC-DATA-730/assignments/blob/main/schedules/2025-spring-section-1.md)  
 [Section 2](https://github.com/UNC-DATA-730/assignments/blob/main/schedules/2025-spring-section-2.md)

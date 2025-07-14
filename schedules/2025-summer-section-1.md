@@ -17,8 +17,8 @@
 | Unit 8: Bootstrap sampling and confidence intervals | [Link to invite](https://classroom.github.com/a/QL3YSCNW) | 2025-07-02 |
 | Unit 9: Hypothesis testing | [Link to invite](https://classroom.github.com/a/CCDIN0jI) | 2025-07-09 |
 | Unit 10: Inference for regression | [Link to invite](https://classroom.github.com/a/GY8INO5P) | 2025-07-16 | 
+| Unit 11: Decision trees | [Link to invite](https://classroom.github.com/a/Tw51VOrp) | 2025-07-23 |
 <!-- start of comment
-| Unit 11: Decision trees | [Link to invite](https://classroom.github.com/a/685_FLe2) | 2025-04-04 |
 | Unit 12: Non-linear models | [Link to invite](https://classroom.github.com/a/eAIlhR8b) | 2025-04-11 |
 | Unit 13: Evaluating model performance| [Link to invite](https://classroom.github.com/a/ZSEI7Glf) | 2025-04-15 |
 end of comment -->

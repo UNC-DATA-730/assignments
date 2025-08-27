@@ -8,7 +8,7 @@
 | **Assignment** | **GitHub Classroom Invite** | **Due date** |
 |:--- |:--- |:--- |
 | Unit 1: Intro to Juptyer Lab and onboarding | [Link to invite](https://classroom.github.com/a/LgcqjbwU) | 2025-08-29 |
-| Unit 2: Data viz and wrangling | [Link to invite](https://classroom.github.com/a/bH4knhv9) | 2025-09-05 |
+| Unit 2: Data viz and wrangling | [Link to invite](https://classroom.github.com/a/dVvTghYT) | 2025-09-05 |
 <!-- start of comment
 | Unit 3: Simple linear models | [Link to invite](https://classroom.github.com/a/lA5eZJ3L) | 2025-05-21 |
 | Unit 4: Multiple regression | [Link to invite](https://classroom.github.com/a/KJLSMxPH) | 2025-06-04 |

@@ -9,8 +9,8 @@
 |:--- |:--- |:--- |
 | Unit 1: Intro to Juptyer Lab and onboarding | [Link to invite](https://classroom.github.com/a/XKC3AJhv) | 2026-01-14 |
 | Unit 2: Data viz and wrangling | [Link to invite](https://classroom.github.com/a/DnfbNuqk) | 2026-01-28 |
+| Unit 3: Simple linear models | [Link to invite](https://classroom.github.com/a/gacy0_Uw) | 2026-02-04 |
 <!-- start of comment
-| Unit 3: Simple linear models | [Link to invite](https://classroom.github.com/a/lA5eZJ3L) | 2025-05-21 |
 | Unit 4: Multiple regression | [Link to invite](https://classroom.github.com/a/KJLSMxPH) | 2025-06-04 |
 | Unit 5: Logistic regression | [Link to invite](https://classroom.github.com/a/cWH54wCL) | 2025-06-11 |
 | Unit 6: Scikit-Learn API | [Link to invite](https://classroom.github.com/a/Mq0kbOwL) | 2025-06-20 |

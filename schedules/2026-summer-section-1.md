@@ -15,8 +15,8 @@
 | Unit 6: Scikit-Learn API | [Link to invite](https://classroom.github.com/a/foa1OH_f) | 2026-06-26 |
 | Unit 7: Virtual sampling | [Link to invite](https://classroom.github.com/a/oVLlVA3K) | 2026-06-26 |
 | Unit 8: Bootstrap sampling and confidence intervals | [Link to invite](https://classroom.github.com/a/alf49b8u) | 2026-07-03 |
+| Unit 9: Hypothesis testing | [Link to invite](https://classroom.github.com/a/5kRXVRyi) | 2026-07-10 |
 <!-- start of comment
-| Unit 9: Hypothesis testing | [Link to invite](TBD) | TBD |
 | Unit 10: Inference for regression | [Link to invite](TBD) | TBD |
 | Unit 11: Decision trees | [Link to invite](TBD) | TBD |
 | Unit 12: Non-linear models | [Link to invite](TBD) | TBD |
